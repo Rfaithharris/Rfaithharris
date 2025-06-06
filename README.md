@@ -20,7 +20,6 @@
 - ✅ Written in Python
 - 🧠 Based on real lab experience
 - 💡 Teaches test-tube matching and handling requirements
-- 🔗 [View project on GitHub](https://github.com/Rfaithharris/tube-quiz)
 
 ---
 
